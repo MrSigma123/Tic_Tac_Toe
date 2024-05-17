@@ -1,0 +1,7 @@
+ | |
+-----
+ | | 
+-----
+ | | 
+
+ // I fid the simpliest grid template not that much appealing
