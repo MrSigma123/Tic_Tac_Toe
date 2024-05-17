@@ -1,27 +1,49 @@
-        |        |        
-        |        |
-        |        |
-        |        |
-        |        |
---------------------------
-        |        |        
-        |        |
-        |        |
-        |        |
-        |        |
---------------------------
-        |        |        
-        |        |
-        |        |
-        |        |
-        |        |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+--------------------------------------------
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+--------------------------------------------
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
+              |              |
 
-// The 8 (horizontal) * 5 (vertical) grid makes the grid element fields
-// look like almost square
-// The X and Y will looke like as follows
+// Greater grid resolution will improve readability and
+// enhance user experience
+// The characters X and O will look like as below
+// (grid resolution 14 (width) * 8 (height)
 
- ██████      ██   ██ 
-██    ██      ██ ██  
-██    ██       ███   
-██    ██      ██ ██  
- ██████      ██   ██ 
+8b        d8
+ Y8,    ,8P 
+  `8b  d8'  
+    Y88P    
+    d88b    
+  ,8P  Y8,  
+ d8'    `8b 
+8P        Y8
+
+  ,ad8888ba,  
+,d8"'    `"8b 
+d8'        `8b
+88          88
+88          88
+Y8,        ,8P
+ Y8a.    .a8P 
+  `"Y8888Y"' 
