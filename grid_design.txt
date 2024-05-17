@@ -1,7 +1,14 @@
- | |
------
- | | 
------
- | | 
+   |   |   
+   |   |   
+   |   |   
+-----------
+   |   |   
+   |   |   
+   |   |   
+-----------
+   |   |   
+   |   |   
+   |   |
 
- // I fid the simpliest grid template not that much appealing
+// This kind of grid design is much more readable,
+// though readability of X and O has to be modified
