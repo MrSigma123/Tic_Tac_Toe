@@ -1,14 +1,27 @@
-   |   |   
-   |   |   
-   |   |   
------------
-   |   |   
-   |   |   
-   |   |   
------------
-   |   |   
-   |   |   
-   |   |
+        |        |        
+        |        |
+        |        |
+        |        |
+        |        |
+--------------------------
+        |        |        
+        |        |
+        |        |
+        |        |
+        |        |
+--------------------------
+        |        |        
+        |        |
+        |        |
+        |        |
+        |        |
 
-// This kind of grid design is much more readable,
-// though readability of X and O has to be modified
+// The 8 (horizontal) * 5 (vertical) grid makes the grid element fields
+// look like almost square
+// The X and Y will looke like as follows
+
+ ██████      ██   ██ 
+██    ██      ██ ██  
+██    ██       ███   
+██    ██      ██ ██  
+ ██████      ██   ██ 
