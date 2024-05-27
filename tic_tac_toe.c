@@ -9,3 +9,10 @@
     let the user to decide to play X or O (or choose randomly)
   - add counting the score (wins by X and O)
 */
+
+#include <stdio.h>
+#include "tic_tac_toe_functions.h"
+
+int main(void) {
+  return 0;
+}
