@@ -1,0 +1,11 @@
+To make the program appealing for the user and enable
+the characters as large ASCII art characters we have to think
+of the way how to print the grid representation depending
+of the grid state. It's not that straighforward as it might
+seem.
+
+The trouble is that each "large" ASCII art character is stored
+in several lines and columns, so i.e. changing center grid position
+involves printing the character in the middle of the grid.
+
+I have to find a way to represent the grid state with ASCII art.
