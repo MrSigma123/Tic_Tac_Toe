@@ -2,11 +2,14 @@
 /* 
   Project design:
   
+  // update 05.01.2025 I have simplified the project to make it work for testing
+  // I plan to add different features, below is the task list to be implemented:
+
   TODO:
   - generate the gaming grid
   - implement engine for CPU
-  - implement two players mode
-    let the user to decide to play X or O (or choose randomly)
+  - implement two players mode DONE
+  - let the user to decide to play X or O (or choose randomly)
   - add counting the score (wins by X and O)
 */
 
